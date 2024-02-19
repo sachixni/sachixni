@@ -10,6 +10,22 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
+
+- 🔭 I’m currently working on [ElementLocatorFinder](https://github.com/sachixni/ElementLocatorFinder)
+
+- 🌱 I’m currently learning **Playwrights, Gatling, kafka**
+
+- 👯 I’m looking to collaborate on **any interesting ideas.**
+
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6389595163991192023?pli=1](https://www.blogger.com/blog/posts/6389595163991192023?pli=1)
+
+- 💬 Ask me about **Quality Testing**
+
+- 📫 How to reach me **bawanthisachini1995@gmail.com**
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
