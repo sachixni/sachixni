@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sachini De Zoysa</h1>
 <h3 align="center">A passionate Software Quality Engineer from Sri Lanka</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachixni&show_icons=true&locale=en&layout=compact" alt="sachixni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachixni&show_icons=true&locale=en" alt="sachixni" /></p>
+<div style="display: flex; justify-content: center; align-items: center;flex-direction: column;height: 100vh;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachixni&show_icons=true&locale=en&layout=compact" alt="sachixni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachixni&show_icons=true&locale=en" alt="sachixni" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
 
