@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
-
 - 🔭 I’m currently working on [ElementLocatorFinder](https://github.com/sachixni/ElementLocatorFinder)
 
 - 🌱 I’m currently learning **Playwrights, Gatling, kafka**
@@ -24,7 +22,8 @@
 
 - 📫 How to reach me **bawanthisachini1995@gmail.com**
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
 
 ###
 
