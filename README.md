@@ -29,12 +29,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <!-- Add more badges as needed -->
-</div>
+<h3 align="left">Find me on:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sachini de zoysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachini de zoysa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sachini de zoysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sachini de zoysa" height="30" width="40" /></a>
+<a href="https://fb.com/sachini bawanthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachini bawanthi" height="30" width="40" /></a>
+<a href="https://instagram.com/sachi_dezoysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachi_dezoysa" height="30" width="40" /></a>
+</p>
 
 ###
 
