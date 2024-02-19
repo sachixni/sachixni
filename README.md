@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachini De Zoysa</h1>
 <h3 align="center">A passionate Software Quality Engineer from Sri Lanka</h3>
+<h3 align="center">I have another git account: https://github.com/sachinidezoysa</h3>
 
 ###
 
