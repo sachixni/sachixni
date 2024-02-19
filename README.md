@@ -10,7 +10,7 @@
 
 ###
 
-<table>
+<table style="border: none;">
 <tr>
 <td>
 
