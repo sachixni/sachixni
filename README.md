@@ -10,7 +10,7 @@
 
 ###
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
 <td style="border: none;">
 
@@ -27,7 +27,7 @@
 - 📫 How to reach me **bawanthisachini1995@gmail.com**
 
 </td>
-<td>
+<td style="border: none;">
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  />
 
@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sachixni/sachixni/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
