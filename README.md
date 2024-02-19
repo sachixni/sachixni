@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **any interesting ideas.**
 
-- 👨‍💻 All of my projects are available at [<under development>](<under development>)
-
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6389595163991192023?pli=1](https://www.blogger.com/blog/posts/6389595163991192023?pli=1)
 
 - 💬 Ask me about **Quality Testing**
