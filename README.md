@@ -10,9 +10,7 @@
 
 ###
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-<tr>
-<td style="border: none;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
 
 - 🔭 I’m currently working on [ElementLocatorFinder](https://github.com/sachixni/ElementLocatorFinder)
 
@@ -25,15 +23,6 @@
 - 💬 Ask me about **Quality Testing**
 
 - 📫 How to reach me **bawanthisachini1995@gmail.com**
-
-</td>
-<td style="border: none;">
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
-
-</td>
-</tr>
-</table>
 
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
 
