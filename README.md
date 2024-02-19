@@ -10,8 +10,8 @@
 
 ###
 
-<table style="border: none;">
-<tr>
+<table>
+<tr style="border: none;">
 <td>
 
 - 🔭 I’m currently working on [ElementLocatorFinder](https://github.com/sachixni/ElementLocatorFinder)
