@@ -11,8 +11,8 @@
 ###
 
 <table>
-<tr style="border: none;">
-<td>
+<tr>
+<td style="border: none;">
 
 - 🔭 I’m currently working on [ElementLocatorFinder](https://github.com/sachixni/ElementLocatorFinder)
 
