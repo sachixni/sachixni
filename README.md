@@ -8,8 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachixni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
 
+###
+<div>
 - 🔭 I’m currently working on [ElementLocatorFinder](https://github.com/sachixni/ElementLocatorFinder)
 
 - 🌱 I’m currently learning **Playwrights, Gatling, kafka**
@@ -24,7 +26,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachixni&label=Profile%20views&color=0e75b6&style=flat" alt="sachixni" /> </p>
+</div>
 
 ###
 
